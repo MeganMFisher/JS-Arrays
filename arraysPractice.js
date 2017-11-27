@@ -375,7 +375,6 @@ objects until you find Tyler's account (use tylermcginnis33@gmail.com to find hi
 Once you find the particular index he's located in, delete him from the array.*/
 
   //Code Here
-console.log(users)
 
   for(let i = 0; i < users.length; i++){
     if(users[i].email === 'tylermcginnis33@gmail.com') {
